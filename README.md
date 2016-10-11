@@ -1,5 +1,8 @@
 # OpenSF-Apache-Spark
-Exploring the City of San Francisco public data with Apache Spark 2.0
+
+### ![Spark Logo](http://curriculum-release.s3-website-us-west-2.amazonaws.com/wiki-book/general/logo_spark.png) + ![SF Open Data Logo](http://curriculum-release.s3-website-us-west-2.amazonaws.com/sf_open_data_meetup/logo_sfopendata.png)
+
+# Exploring the City of San Francisco public data with Apache Spark 2.0
 
 ![Fireworks](http://curriculum-release.s3-website-us-west-2.amazonaws.com/sf_open_data_meetup/fireworks.png)
 
